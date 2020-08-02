@@ -1,7 +1,7 @@
 # Image Classifcation Project
 
 ## 1) Description
-This prjoect looked at how to create a Image Classifier using a Convolution Neural Network (CNN). Four different networks were investigated, a scratch made on, VGG19, ResNet152V2, and MobileNetV2.
+This project looks at how to create a Image Classifier using a Convolution Neural Network (CNN). Four different networks were investigated, a scratch made on, VGG19, ResNet152V2, and MobileNetV2.
 
 ## 2) Installation
 All you need to do is download the files and meet the prerequisities below!
